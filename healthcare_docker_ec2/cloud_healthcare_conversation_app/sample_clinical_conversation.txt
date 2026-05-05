@@ -1,0 +1,6 @@
+Doctor: What brought you in today?
+Patient: I have had chest pain since last night and I feel light headed.
+Doctor: Do you have any allergies or past medical history?
+Patient: I do not have allergies, but my father had a heart attack.
+Doctor: We should run an ECG today and follow up tomorrow with the test results.
+Patient: I was anxious before, but I feel better after understanding the next steps.
